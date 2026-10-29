@@ -8,6 +8,8 @@ The eyes blink automatically at random intervals and occasionally look left or r
 
 This project is designed for learning Arduino programming, OLED display interfacing, and basic animation logic.
 
+##Arduino IDE - https://www.arduino.cc/en/software/
+
 ## Features
 
 - Animated circular eyes
